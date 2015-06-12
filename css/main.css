@@ -1,5 +1,5 @@
 body {
-	background-color: gray;
+	background-color: rgb(60,60,60);
 	color: white;
 	border:1px solid black;
 	margin:40px;
@@ -21,20 +21,29 @@ a {
 
 h3{
 	text-transform: uppercase;
+	color: rgb(180,180,180);
 }
 
 h4{
 	text-transform: uppercase;
+	color: rgb(180,180,180);
 }
 p{
 
 }
 
 li p{
-	color: red;
+	color: rgb(180,180,180);
+	margin: 1px;
+}
+
+li{
+	margin: 20px;
+	list-style: square;
+
 }
 
 footer {
 	text-align: center;
-	color: black;
+	color: rgb(180,180,180);
 }

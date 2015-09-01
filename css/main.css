@@ -40,7 +40,13 @@ li p{
 li{
 	margin: 20px;
 	list-style: square;
+}
 
+#edu{
+	margin: 5px;
+}
+img{
+	float: right;
 }
 
 footer {
